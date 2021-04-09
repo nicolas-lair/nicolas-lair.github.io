@@ -21,7 +21,8 @@
 title: Nicolas Lair
 email: nl[dot]nicolas[dot]lair[at]gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is my personal page. You can find the links to my research publications and personal posts on different topics 
+  This is my personal page. You can find the links to my research publications and personal posts on different topics.
+  Enjoy the reading and feel free to contact me :)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "nicolas-lair.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nico_lr_
