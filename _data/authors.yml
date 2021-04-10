@@ -3,7 +3,7 @@
 # Change `author1` to your shortname.
 author1:
   name:              Nicolas Lair
-  email:             nl[dot]nicolas[dot]lair[at]gmail.com
+  email:             nl.nicolas.lair@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -27,7 +27,7 @@ author1:
   # Rearrange to change the order in which they appear
   social:
     email:           nl.nicolas.lair@gmail.com
-    linkedin:        nicolas-lair
+    linkedin:        lairnicolas
     github:          nicolas-lair
     twitter:         nico_lr_
     # rss:             https://<url>/feed.xml
