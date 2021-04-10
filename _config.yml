@@ -13,4 +13,5 @@ twitter_username: nico_lr_
 github_username:  nicolas-lair
 # gplus_username:  lorem_ipsum
 
+remote_theme: fongandrew/hydeout
 exclude: ['package.json', 'src' , 'node_modules']
