@@ -29,10 +29,10 @@ description:           >
   with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline:               Hi! I am a PhD Candidate in the Robot Cognition Laboratory. 
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [AI, Machine Learning, Cognition, Language]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -46,6 +46,8 @@ author:
   email:               nl[dot]nicolas[dot]lair[at]gmail.com
   # # Used by `jekyll-seo-tag`:
   twitter:             nico_lr_
+  about: |
+    Hi I am Nicolas
 
 # Add links to the sidebar.
 menu:
