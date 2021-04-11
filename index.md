@@ -12,7 +12,7 @@ cover: true
 ---
 ## Who I am 
 
-I am currently a PhD candidate in the [Robot Cognition Laboratory](https://robotcognitionlab.pagesperso-orange.fr/) under the supervision of Dr. Peter Ford Dominey. We are a multidisciplinary CNRS & Inserm team of psychology, robotics and neuroscience researchers working to understand human cognition and to develop smart developmental robots. Funded by [Cloud Temple](https://www.cloud-temple.com/?lang=en), I am working on personal digital assistants that can learn from their interaction with users. Our goal is to draw inspiration from the way young children learn and use language to create smart agent that can learn to interpret a user request and perform it in smart home environment. 
+I am currently a PhD candidate in the [Robot Cognition Laboratory](https://robotcognitionlab.pagesperso-orange.fr/) under the supervision of Dr. Peter Ford Dominey. We are a multidisciplinary CNRS & Inserm team of psychology, robotics and neuroscience researchers working to understand human cognition and to develop smart developmental robots. Funded by [Cloud Temple](https://www.cloud-temple.com/?lang=en), I am working on personal digital assistants that can learn from their interaction with users. Our goal is to draw inspiration from the way young children learn and use language to create an AI agent that can learn to interpret a user request and perform it in smart home environment. 
 
 Before that, I worked as a Data Scientist at [Qucit](https://qucit.com/), a smart cities startup in Bordeaux developping AI-based solutions for shared transportation and urban planning.
 
