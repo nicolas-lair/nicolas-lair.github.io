@@ -2,7 +2,8 @@
 layout: list
 title: Nicolas Lair
 description: >
-  This is my personal page. You will find my research publications and maybe some thoughts I will put there. You can also download my resume. Enjoy the reading and feel free to contact me for questions and friendly discussions.
+  This is a personal page where you can find my research publications, my resume and maybe some personal thoughts :) 
+  Enjoy the reading and feel free to reach out to me for questions and friendly discussions.
 last_modified_at: 2021-04-11
 no_link_title: false 
 no_excerpt: false 
