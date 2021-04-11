@@ -53,10 +53,11 @@ author:
 menu:
   - title:             Welcome
     url:               /
-  - title:             Publications
-    url:               \#publications-
   - title:             Résumé
-    url:               \#resume-
+    url:               \#resume
+  - title:             Publications
+    url:               \#publications
+  
   #- title:             About
    # url:               /about/
 
