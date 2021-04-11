@@ -5,8 +5,8 @@ permalink: /publications/
 ---
 
 ## Selected publications
-Hi..
-jsz
+Hi  
+sz
 
 — Language as a Cognitive Tool to Imagine Goals in Curiosity-Driven Exploration..
 _Colas, C., Karch, T., **Lair, N.**, Dussoux, J.-M., Dominey, P. F. & Oudeyer, P.-Y._
