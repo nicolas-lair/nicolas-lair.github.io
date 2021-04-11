@@ -134,11 +134,6 @@ defaults:
       sitemap:         false
   
   - scope:
-      type:            posts
-    values:
-      sitemap:         false
-
-  - scope:
       path:            licenses/
     values:
       layout:          plain
