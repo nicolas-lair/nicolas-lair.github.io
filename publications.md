@@ -7,9 +7,9 @@ permalink: /publications/
 ## Selected publications
 
 — Language as a Cognitive Tool to Imagine Goals in Curiosity-Driven Exploration.
-⋅⋅⋅ _Colas, C., Karch, T., **Lair, N.**, Dussoux, J.-M., Dominey, P. F. & Oudeyer, P.-Y._
-⋅⋅⋅ 34th Conference on Neural Information Processing Systems (NeurIPS 2020) ⋅⋅
-⋅⋅⋅ [paper](https://papers.nips.cc/paper/2020/file/274e6fcf4a583de4a81c6376f17673e7-Paper.pdf) [code](https://github.com/flowersteam/Imagine) ⋅⋅
+_Colas, C., Karch, T., **Lair, N.**, Dussoux, J.-M., Dominey, P. F. & Oudeyer, P.-Y._
+34th Conference on Neural Information Processing Systems (NeurIPS 2020)
+[paper](https://papers.nips.cc/paper/2020/file/274e6fcf4a583de4a81c6376f17673e7-Paper.pdf) [code](https://github.com/flowersteam/Imagine)
 
 — User-in-the-loop adaptive intent detection for instructable digital assistant.
 ⋅⋅⋅ _**Lair, N.**, Delgrange, C., Mugisha, D., Dussoux, J.-M., Oudeyer, P.-Y. & Dominey, P. F._ ⋅⋅
