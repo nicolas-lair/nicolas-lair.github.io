@@ -4,8 +4,8 @@ description: You will find the list of my research publications and links to an 
 permalink: /publications/
 ---
 
-- Language grounding through social interactions and curiosity-driven multigoal learning. 
-Lair, N., Colas, C., Portelas, R., Dussoux, J.-M., Dominey, P. & Oudeyer, P.-Y.
+— Language grounding through social interactions and curiosity-driven multigoal learning. 
+_*Lair, N.*, Colas, C., Portelas, R., Dussoux, J.-M., Dominey, P. & Oudeyer, P.-Y._
 (2019). ViGIL workshop (NeurIPS 2019) : Visually Grounded Interaction and Language
 
 — Lair, N., Delgrange, C., Mugisha, D., Dussoux, J.-M., Oudeyer, P.-Y. & Dominey,
