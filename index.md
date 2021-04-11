@@ -2,8 +2,8 @@
 layout: list
 title: Nicolas Lair
 description: >
-  This is my page
-last_modified_at: 2018-08-03
+  This is my personal page
+last_modified_at: 2021-04-11
 no_link_title: false 
 no_excerpt: false 
 hide_image: false
