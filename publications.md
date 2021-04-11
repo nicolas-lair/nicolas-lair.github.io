@@ -18,12 +18,12 @@ International Conference on Intelligent User Interfaces, Proceedings IUI 2020, 1
 
 ## Other Publications
 
-— Language grounding through social interactions and curiosity-driven multigoal learning.  
+* Language grounding through social interactions and curiosity-driven multigoal learning.  
 _**Lair, N.**, Colas, C., Portelas, R., Dussoux, J.-M., Dominey, P. & Oudeyer, P.-Y._  
 ViGIL workshop (NeurIPS 2019) : Visually Grounded Interaction and Language.  
 [paper](https://arxiv.org/abs/1911.03219)
 
-— Temporal-Spatial Integration for Immediacy and Overrule in Discourse Comprehension.
-⋅⋅⋅ _Uchida, T., **Lair, N.**, Ishiguro, H. & Dominey, P. F._, 2021 ⋅⋅
-⋅⋅⋅ A Model of Online Neurobiology of Language, 2(1), 83-105. doi : 10.1162/nol_a_00026. ⋅⋅
-⋅⋅⋅ [paper](https://direct.mit.edu/nol/article/2/1/83/95859) [code](https://github.com/nicolas-lair/DiscourseOverrule) ⋅⋅
+* Temporal-Spatial Integration for Immediacy and Overrule in Discourse Comprehension.  
+_Uchida, T., **Lair, N.**, Ishiguro, H. & Dominey, P. F._, 2021  
+A Model of Online Neurobiology of Language, 2(1), 83-105. doi : 10.1162/nol_a_00026.  
+[paper](https://direct.mit.edu/nol/article/2/1/83/95859) [code](https://github.com/nicolas-lair/DiscourseOverrule)  
