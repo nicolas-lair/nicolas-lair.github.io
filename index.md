@@ -9,13 +9,13 @@ no_excerpt: false
 hide_image: false
 cover: true
 ---
-# Presentation 
+## Presentation 
 
-# Resume
+## Resume<a name="resume"></a>
 
-# Publications <a name="publications"></a>
+## Publications<a name="publications"></a>
 
-## Selected publications
+### Selected publications
 
 * Language as a Cognitive Tool to Imagine Goals in Curiosity-Driven Exploration.  
 _Colas, C., Karch, T., **Lair, N.**, Dussoux, J.-M., Dominey, P. F. & Oudeyer, P.-Y._  
@@ -27,7 +27,7 @@ _**Lair, N.**, Delgrange, C., Mugisha, D., Dussoux, J.-M., Oudeyer, P.-Y. & Domi
 International Conference on Intelligent User Interfaces, Proceedings IUI 2020, 116-127. doi : 10.1145/3377325.3377490  
 [paper](https://arxiv.org/abs/2001.06007) [code](https://github.com/nicolas-lair/AidMe)
 
-## Other Publications
+### Other Publications
 
 * Language grounding through social interactions and curiosity-driven multigoal learning.  
 _**Lair, N.**, Colas, C., Portelas, R., Dussoux, J.-M., Dominey, P. & Oudeyer, P.-Y._  
