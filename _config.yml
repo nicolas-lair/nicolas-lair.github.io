@@ -52,11 +52,11 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             Welcome
-    url:               /index/
+    url:               /
   - title:             Publications
-    url:               \#publications
+    url:               \#publications-
   - title:             Résumé
-    url:               /resume/
+    url:               \#resume-
   #- title:             About
    # url:               /about/
 
