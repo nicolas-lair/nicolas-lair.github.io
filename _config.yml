@@ -54,7 +54,7 @@ menu:
   - title:             Welcome
     url:               /index/
   - title:             Publications
-    url:               /publications/
+    url:               \#publications
   - title:             Résumé
     url:               /resume/
   #- title:             About
