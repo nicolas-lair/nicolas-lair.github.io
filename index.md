@@ -7,7 +7,7 @@ last_modified_at: 2021-04-11
 no_link_title: false 
 no_excerpt: false 
 hide_image: false
-cover: false
+cover: true
 ---
 ## Presentation 
 
