@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 ## Selected publications
-Hi  
+Hi.  
 sz
 
 — Language as a Cognitive Tool to Imagine Goals in Curiosity-Driven Exploration..
